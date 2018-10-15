@@ -28,7 +28,7 @@ import (
 )
 func main (){
     b62 := []rune("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
-    encoding := Encode(65434198762432165, b62)
+    encoding := baseN.Encode(65434198762432165, b62)
     fmt.Println(encoding)
 }
 // prints: 4PGJLkZKpD
