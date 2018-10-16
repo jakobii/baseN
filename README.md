@@ -1,4 +1,4 @@
-![alt text](https://github.com/jakobii/baseN/bN.svg "baseN Logo")
+![alt text](https://raw.githubusercontent.com/jakobii/baseN/master/bN.svg "baseN Logo")
 
 
 
