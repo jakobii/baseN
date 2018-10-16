@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="133.11325mm"
+   height="135.86636mm"
+   viewBox="0 0 133.11325 135.86636"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="bN.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="358.50176"
+     inkscape:cy="211.8437"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1299"
+     inkscape:window-height="709"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.161901,-50.111354)">
+    <ellipse
+       style="fill:#ffe8f0;fill-opacity:1;stroke-width:0.23295443"
+       ry="26.623365"
+       rx="47.256474"
+       cy="159.35435"
+       cx="91.328499"
+       id="ellipse17" />
+    <ellipse
+       id="path15"
+       cx="91.470238"
+       cy="103.62737"
+       rx="53.672619"
+       ry="30.238094"
+       style="fill:#ffd5d5;stroke:#e6e6e6;stroke-width:0.26458332" />
+    <path
+       style="fill:#ffaaaa;stroke:#e6e6e6;stroke-width:0.26458332"
+       d="m 122.46429,117.61249 c 10e-6,16.70004 -30.994052,16.25298 -30.994052,16.25298 -29.642573,-3e-5 -53.672625,-13.53806 -53.672619,-30.2381 2e-6,-16.700037 24.030051,-30.238071 53.672619,-30.238092 0,0 30.994052,27.523172 30.994052,44.223212 z"
+       id="ellipse19"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.51488,99.318451 c 0.7456,-8.063492 -2.645064,-13.859127 8.315477,-22.678571 4.208361,-6.240731 7.484527,-11.154296 17.386903,-15.497022 -0.516284,-3.395628 5.564151,-7.254796 -0.377975,-7.937503 9.588377,-4.152593 13.332129,-5.61085 21.544642,5.291668 13.704693,6.147872 9.185883,9.258494 12.095233,13.607142 13.38551,6.791432 22.39616,13.367326 25.70238,24.190474 l 9.90298,8.542261 c -5.79677,73.10059 -58.445368,49.99809 -98.756092,14.56556 z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:#d38d5f;stroke:none;stroke-width:0.18524098"
+       d="m 12.204486,86.344582 c -0.02956,-4.234541 -0.987262,-8.758164 8.043207,-10.170868 10.764224,2.450778 13.993752,8.430699 17.850908,14.116647 l 11.416279,9.02809 c 7.741016,2.971229 14.251988,6.778009 17.228209,13.624209 1.891351,7.61491 -2.657153,10.1917 -8.043206,10.17086 C 51.94895,122.30802 46.47535,117.90645 41.88681,109.81761 L 29.847826,100.29708 C 22.021142,98.106481 15.251724,94.578931 12.204486,86.344582 Z"
+       id="rect22"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.452381,95.160713 -0.377976,15.874997 -6.803572,23.05655 23.056548,10.96131 21.544642,-23.8125 z"
+       id="path25"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffe8f0;fill-opacity:1;stroke-width:0.26145568"
+       d="m 37.419643,102.72023 c 0.215317,35.94174 107.633337,33.5896 107.723207,0 l -6.8551,57.75476 H 44.274756 Z"
+       id="rect10"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       aria-label="bN"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.27945709px;line-height:1.25;font-family:Navilu;-inkscape-font-specification:Navilu;letter-spacing:0px;word-spacing:0px;fill:#9856aa;fill-opacity:1;stroke:none;stroke-width:0.90698647"
+       id="text29"
+       transform="matrix(1.2599453,0,0,1.2599453,-21.587344,-43.596877)">
+      <path
+         d="m 72.867288,142.45479 h 2.338306 v 8.78636 q 2.054876,-2.16116 4.924615,-2.16116 3.117742,0 4.924615,2.51545 1.842302,2.51545 1.842302,6.80234 0,4.2869 -1.948588,6.80235 -1.948589,2.51545 -5.208047,2.51545 -2.83431,0 -4.712041,-2.05487 v 1.59429 h -2.161162 z m 2.338306,19.94646 q 0.566862,1.48801 1.771444,2.3383 1.240011,0.8503 2.798882,0.8503 2.196591,0 3.472031,-1.94859 1.310869,-1.94859 1.310869,-5.24348 0,-3.29488 -1.204582,-5.24347 -1.169153,-1.94859 -3.1886,-1.94859 -3.117742,0 -4.960044,3.08231 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.27917862px;font-family:'Lohit Devanagari';-inkscape-font-specification:'Lohit Devanagari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9856aa;fill-opacity:1;stroke-width:0.90698647"
+         id="path52"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 105.42643,164.88127 v -21.2219 h 2.33831 V 167.255 h -3.54289 L 94.549766,146.0331 V 167.255 H 92.21146 v -23.59563 h 3.542889 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.27917862px;font-family:'Lohit Devanagari';-inkscape-font-specification:'Lohit Devanagari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9856aa;fill-opacity:1;stroke-width:0.90698647"
+         id="path54"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

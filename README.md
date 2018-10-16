@@ -1,5 +1,11 @@
+![alt text](https://github.com/jakobii/baseN/bN.svg "baseN Logo")
+
+
+
+
 # baseN
-baseN lets you encode any number into any base of utf8 characters.
+baseN lets you encode any number into any base using your choice of utf8 characters.
+character values are determined by the order you specify them.
 
 `go get github.com/jakobii/baseN`
 
@@ -13,8 +19,8 @@ import (
 )
 func main (){
     b4 := []rune("😁😡😪😋")
-    encoding := baseN.Encode(255, b4)
-    fmt.Println(encoding)
+    e := baseN.Encode(255, b4)
+    fmt.Println(e)
 }
 // prints: 😋😋😋😋
 ```
@@ -28,8 +34,8 @@ import (
 )
 func main (){
     b62 := []rune("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
-    encoding := baseN.Encode(65434198762432165, b62)
-    fmt.Println(encoding)
+    e := baseN.Encode(65434198762432165, b62)
+    fmt.Println(e)
 }
 // prints: 4PGJLkZKpD
 ```
