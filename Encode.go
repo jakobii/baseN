@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+// Base stores calculated properties based used to convert bases
 type Base struct {
 	charset []byte
 	powers  []uint64
@@ -12,6 +13,17 @@ type Base struct {
 
 const maxPower uint64 = 18446744073709551615
 
+// New is like NewBase except it panics if there is an error
+func New(charSet []rune) Base {
+	b, err := NewBase(charSet)
+	if err != nil {
+		panic(err)
+	}
+	return b
+}
+
+// NewBase creates a new base encoder/decoder from the callers specified character set.
+// error is returned when the provided character set is not a distinct list of characters.
 func NewBase(charSet []rune) (Base, error) {
 	var b Base
 
@@ -40,6 +52,7 @@ func NewBase(charSet []rune) (Base, error) {
 	return b, nil
 }
 
+// Encode will convert the provided uint64 into a encoded byte slice.
 func (b *Base) Encode(source uint64) []byte {
 	var e []byte
 	var rem uint64 = source
@@ -70,7 +83,7 @@ func (b *Base) Encode(source uint64) []byte {
 
 			// (high/base)*char
 			// this should never result in a float
-			sector := (((*b).powers[i] / base) * char)
+			sector := ((*b).powers[i] / base) * char
 			rem = rem - sector
 
 			// start next search at zero
@@ -95,7 +108,8 @@ func (b *Base) Encode(source uint64) []byte {
 	return e
 }
 
-func (b *Base) Decode(source []byte) uint64 {
+// Decode takes a base encoded byte slice and converts it back to a uint64 number.
+func (b *Base) Decode(source []byte) (uint64, error) {
 	var total uint64
 	var base uint64
 	var high uint64
@@ -131,9 +145,11 @@ func (b *Base) Decode(source []byte) uint64 {
 				continue
 			}
 			total += sectorSize * uint64(charIndex)
+		} else {
+			return 0, errors.New(fmt.Sprintf("invalid character '%s'.", string(e[i])))
 		}
 	}
-	return total
+	return total, nil
 }
 
 func (b *Base) N() uint {
