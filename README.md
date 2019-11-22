@@ -1,3 +1,4 @@
+![logo](logo.svg)
 
 # baseN
 baseN lets you encode any number into any base using your choice of utf8 characters. character values are determined by the order you specify them. the base number is detirmined by the length of the character set
